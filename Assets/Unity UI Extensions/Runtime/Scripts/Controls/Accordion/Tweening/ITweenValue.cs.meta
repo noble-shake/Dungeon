@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9edf9da4c14ad2843879a2331b00f738
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/Accordion/Tweening/ITweenValue.cs
+  uploadId: 684629

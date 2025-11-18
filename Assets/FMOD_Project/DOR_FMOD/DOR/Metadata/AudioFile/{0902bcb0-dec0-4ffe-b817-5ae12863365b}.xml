@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{0902bcb0-dec0-4ffe-b817-5ae12863365b}">
+		<property name="assetPath">
+			<value>character/Thief/Attack/1ST/Player_thief_Attack_1st_vari_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.69999999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb26425-f60e-49ac-83b5-5ef2bb97e67b}</destination>
+		</relationship>
+	</object>
+</objects>

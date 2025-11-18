@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4e96b8ae10dd6bd4bb836f95aa562e1a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234595
+  packageName: Magic Aura and Waves
+  packageVersion: 1.0
+  assetPath: Assets/1. Arts/VFX/_Reference/Magic Aura Waves/Shaders/Waves.shader
+  uploadId: 531160

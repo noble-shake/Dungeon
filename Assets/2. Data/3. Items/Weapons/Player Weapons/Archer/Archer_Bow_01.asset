@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb13a84b4eb1ca4aa985988d1acd543, type: 3}
+  m_Name: Archer_Bow_01
+  m_EditorClassIdentifier: 
+  itemName: Bow
+  itemIcon: {fileID: 0}
+  itemDescription: bow test
+  itemID: 7
+  weaponAnimator: {fileID: 0}
+  weaponModelType: 0
+  weaponModel: {fileID: 3565253880598058995, guid: ebebee8ae2bc1784481c8d8fac1143c9, type: 3}
+  strengthREQ: 10
+  dexREQ: 10
+  intREQ: 0
+  faithREQ: 0
+  physicalDamage: 0
+  magicDamage: 0
+  fireDamage: 0
+  holyDamage: 0
+  lighteningDamage: 0
+  groggyDamage: 10
+  lightAttackAction: {fileID: 0}
+  heavyAttackAction: {fileID: 0}
+  specialAttackAction_01: {fileID: 0}
+  specialAttackAction_02: {fileID: 0}
+  evadeAction: {fileID: 0}
+  buffAction: {fileID: 0}
+  light_whooshes: []
+  medium_whooshes: []
+  heavy_whooshes: []

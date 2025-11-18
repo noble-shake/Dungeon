@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 771455b8f540bfb488f67447007fbd66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/DemoResources/Scene/Profiles/URP Post-process
+    Profile.asset
+  uploadId: 713990

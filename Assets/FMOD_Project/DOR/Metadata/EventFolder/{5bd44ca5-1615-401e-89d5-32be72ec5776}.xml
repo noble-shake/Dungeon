@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{5bd44ca5-1615-401e-89d5-32be72ec5776}">
+		<property name="name">
+			<value>Warrior_DIA</value>
+		</property>
+		<relationship name="folder">
+			<destination>{060398c3-ffbe-49b4-91b3-f0e64bba88b3}</destination>
+		</relationship>
+	</object>
+</objects>

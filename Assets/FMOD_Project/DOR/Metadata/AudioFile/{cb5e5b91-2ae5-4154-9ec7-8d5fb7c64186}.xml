@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cb5e5b91-2ae5-4154-9ec7-8d5fb7c64186}">
+		<property name="assetPath">
+			<value>character/Warrior/Special Attack/Player_warrior_SpecialAttack_01_LastAttack_var_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.2233749999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb26425-f60e-49ac-83b5-5ef2bb97e67b}</destination>
+		</relationship>
+	</object>
+</objects>

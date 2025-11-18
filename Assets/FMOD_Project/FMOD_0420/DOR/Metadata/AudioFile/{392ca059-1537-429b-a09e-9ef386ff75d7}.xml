@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{392ca059-1537-429b-a09e-9ef386ff75d7}">
+		<property name="assetPath">
+			<value>character/Knight/Footstep/Player_knight_Move_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36049999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb26425-f60e-49ac-83b5-5ef2bb97e67b}</destination>
+		</relationship>
+	</object>
+</objects>

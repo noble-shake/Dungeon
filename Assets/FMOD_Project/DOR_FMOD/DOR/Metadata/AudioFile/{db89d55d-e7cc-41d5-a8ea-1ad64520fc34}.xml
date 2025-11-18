@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{db89d55d-e7cc-41d5-a8ea-1ad64520fc34}">
+		<property name="assetPath">
+			<value>character/Thief/Parry/Player_thief_Parry_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb26425-f60e-49ac-83b5-5ef2bb97e67b}</destination>
+		</relationship>
+	</object>
+</objects>

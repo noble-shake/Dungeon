@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5b725874-38fb-4a35-8e0d-e173d00115e4}">
+		<property name="assetPath">
+			<value>Player_knight_SpecialAttack_var_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.3265833333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb26425-f60e-49ac-83b5-5ef2bb97e67b}</destination>
+		</relationship>
+	</object>
+</objects>

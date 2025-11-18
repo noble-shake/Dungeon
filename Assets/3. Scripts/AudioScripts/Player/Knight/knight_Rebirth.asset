@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abd5c6c39660e3438720c98e86c80e4, type: 3}
+  m_Name: knight_Rebirth
+  m_EditorClassIdentifier: 
+  eventPath:
+    Guid:
+      Data1: -745665138
+      Data2: 1213766409
+      Data3: -1362231149
+      Data4: -669582389
+    Path: event:/Class/Knight/Player_knight_Rebirth
+  ownerType: 0
+  PlayerSFXType: 9
+  TitleSFXType: 0

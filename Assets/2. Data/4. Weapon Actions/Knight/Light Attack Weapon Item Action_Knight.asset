@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00e5f03f05558284b86b12fbb8d96478, type: 3}
+  m_Name: Light Attack Weapon Item Action_Knight
+  m_EditorClassIdentifier: 
+  actionID: 3
+  damagePairs: []
+  light_Attack_01: Main_Light_Attack_01
+  attackDamage_01: 100
+  attackGroggyDamage_01: 100
+  lightAttackTranstionTime_01: 0.1
+  attack01Type: 0
+  light_Attack_02: Main_Light_Attack_02
+  attackDamage_02: 100
+  attackGroggyDamage_02: 100
+  lightAttackTranstionTime_02: 0.2
+  attack02Type: 0
+  light_Attack_03: Main_Light_Attack_03
+  attackDamage_03: 100
+  attackGroggyDamage_03: 100
+  lightAttackTranstionTime_03: 0.2
+  attack03Type: 0
+  light_Attack_04: Main_Light_Attack_04
+  attackDamage_04: 300
+  attackGroggyDamage_04: 300
+  lightAttackTranstionTime_04: 0.2
+  attack04Type: 1
+  running_Attack_01: Main_Running_Attack_01
+  runningAttackDamage_01: 200
+  runningAttackGroggyDamage_01: 200
+  runningAttack01Type: 0
+  counter_Attack_01: Main_Counter_Attack_01
+  counterAttackDamage_01: 100
+  counterAttackGroggyDamage_01: 100
+  counterAttack01Type: 0

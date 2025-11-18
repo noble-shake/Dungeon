@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dd241e0d4a8de4fc9924c1dce285c587
+timeCreated: 1503449912
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/Sliders/StepperSide.cs
+  uploadId: 684629

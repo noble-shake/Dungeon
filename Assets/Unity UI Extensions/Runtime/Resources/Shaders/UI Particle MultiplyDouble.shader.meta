@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0765ecef58833c3429346a1fee45e4e0
+timeCreated: 1502443969
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UI Particle MultiplyDouble.shader
+  uploadId: 684629

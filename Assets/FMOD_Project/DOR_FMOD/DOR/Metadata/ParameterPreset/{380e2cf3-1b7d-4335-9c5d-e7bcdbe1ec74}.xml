@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{380e2cf3-1b7d-4335-9c5d-e7bcdbe1ec74}">
+		<property name="name">
+			<value>4rd hit</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a16e8dd0-2ce5-4606-8c27-43e0ce71ba79}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a16e8dd0-2ce5-4606-8c27-43e0ce71ba79}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>4rd Hit</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

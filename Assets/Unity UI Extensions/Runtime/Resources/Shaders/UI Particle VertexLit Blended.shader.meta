@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 65bbb789ada58ab44aaedbe09687f089
+timeCreated: 1502443969
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UI Particle VertexLit
+    Blended.shader
+  uploadId: 684629

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 09f137a55810740eab42e24ef242dcfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Layout/FancyScrollView/ScrollRect/FancyScrollRectCell.cs
+  uploadId: 684629

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{0b64a921-5ad1-42ee-b69c-fdc081a87ba3}">
+		<property name="name">
+			<value>Knight_DIA</value>
+		</property>
+		<relationship name="folder">
+			<destination>{060398c3-ffbe-49b4-91b3-f0e64bba88b3}</destination>
+		</relationship>
+	</object>
+</objects>

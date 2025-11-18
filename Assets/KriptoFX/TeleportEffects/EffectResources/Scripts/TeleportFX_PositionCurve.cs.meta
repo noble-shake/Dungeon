@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69e538e939fefb44f84403f68863befe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/EffectResources/Scripts/TeleportFX_PositionCurve.cs
+  uploadId: 713990

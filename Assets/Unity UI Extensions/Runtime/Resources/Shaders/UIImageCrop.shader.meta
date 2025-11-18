@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ccf5a0c8f87d3c547aff3daecb3164a4
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UIImageCrop.shader
+  uploadId: 684629

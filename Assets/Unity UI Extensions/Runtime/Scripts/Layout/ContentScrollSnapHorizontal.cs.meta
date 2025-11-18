@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6b5e39a5eb1058947a287d21183b661c
+timeCreated: 1511208372
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Layout/ContentScrollSnapHorizontal.cs
+  uploadId: 684629

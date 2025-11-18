@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{7e850b83-d680-4047-a81b-28e3c9e327aa}">
+		<property name="name">
+			<value>Thief_Hit</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7a364fb7-1745-46f0-a62e-0bcd05c5cbf4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7a364fb7-1745-46f0-a62e-0bcd05c5cbf4}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

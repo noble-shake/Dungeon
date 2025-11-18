@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3c3af59790cf3749ba49fe1c838c94e
+timeCreated: 1464629199
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UILinearDodge.shader
+  uploadId: 684629

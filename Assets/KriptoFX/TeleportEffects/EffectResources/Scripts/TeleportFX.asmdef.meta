@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 226881895dc8ebb42b4c804c033b352e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/EffectResources/Scripts/TeleportFX.asmdef
+  uploadId: 713990

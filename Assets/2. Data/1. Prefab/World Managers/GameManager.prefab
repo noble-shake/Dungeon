@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8881700455324597383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7422202705016527685}
+  - component: {fileID: 5314364664351072058}
+  - component: {fileID: 709489272762470641}
+  - component: {fileID: -1644898253373267796}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7422202705016527685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8881700455324597383}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5314364664351072058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8881700455324597383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 4236021489
+  InScenePlacedSourceGlobalObjectIdHash: 0
+  AlwaysReplicateAsRoot: 0
+  SynchronizeTransform: 1
+  ActiveSceneSynchronization: 0
+  SceneMigrationSynchronization: 1
+  SpawnWithObservers: 1
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1
+--- !u!114 &709489272762470641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8881700455324597383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c32bc4711f156d946aadaf43649d307a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterList:
+  - {fileID: 1782384603142300, guid: e58c58f22313f2e48b9d37c248a744fc, type: 3}
+  - {fileID: 2772841411688253604, guid: f0279abf4636f1b4185f3bf9f159f43c, type: 3}
+  - {fileID: 9067684227563703255, guid: fd2146669bcafc544a23e2339fc27869, type: 3}
+  - {fileID: 1220342812378024, guid: 2f1df000b2f84ad4893b39426ec15665, type: 3}
+  spawnPointList: []
+  cursePrefab: {fileID: 1546948171852362, guid: a344249d2b1c4ef4bb05718562d2d661, type: 3}
+  curseExplosionPrefab: {fileID: 5172638320009765415, guid: c08896bbdb420134ca7405fe0c8cf175, type: 3}
+  bossRoomCenter: {fileID: 0}
+  bossRoomMagicCirclePositions: []
+  bossRoomPrisonViewPositions: []
+  cameraChange: {fileID: 0}
+  connectedPlayerList: []
+--- !u!114 &-1644898253373267796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8881700455324597383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0cf16405509074da67a77043420246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentWatchingIndex: 0
+  myIndex: 0
+  watchingCameraTransform: {fileID: 0}

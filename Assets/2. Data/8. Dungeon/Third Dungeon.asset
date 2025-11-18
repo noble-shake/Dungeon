@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4491e8ff615122246bad0d6cd5528998, type: 3}
+  m_Name: Third Dungeon
+  m_EditorClassIdentifier: 
+  dungeonIndex: 1
+  dungeonSceneName: Dungeon_03
+  dungeonName: "\uB4DC\uB7EC\uB098\uB294 \uC99D\uAC70"
+  bossIcon: {fileID: 21300000, guid: 614f461b6de0eb84bb39e5dc79f0e6f2, type: 3}
+  bossNickname: "\uAE09\uACA9\uD788 \uD654\uB0B4\uB294"
+  bossName: "\uB9AC\uD5E4\uB3C4\uC2A4"
+  hpDesc: "\uB137\uB3C4 \uBD80\uC871\uD558\uB2E4"
+  damageDesc: "\uC8FD\uB2E4\uBCF4\uBA74 \uC775\uC219\uD574\uC9C4\uB2E4"
+  speedDesc: "\uB208\uC744 \uB5BC\uC9C0 \uB9C8\uB77C"
+  additionalDesc: "\uC9C0\uC625\uC5D0\uC11C \uB300\uC7A5\uAC04 \uC77C\uC744 \uD558\uACE0
+    \uC788\uB2E4. \uB354\uC6B4 \uAC78 \uC2EB\uC5B4\uD55C\uB2E4. \uCDE8\uBBF8\uB85C
+    \uC5BC\uC74C \uB9C8\uBC95\uC744 \uBC30\uC6B0\uACE0 \uC788\uB2E4\uACE0 \uD55C\uB2E4."
+  dungeonDescription: "\uC655\uC88C \uB4A4\uC5D0 \uC228\uACA8\uC9C4 \uD1B5\uB85C\uC5D0
+    \uC9C0\uC625\uC73C\uB85C \uB0B4\uB824\uAC00\uB294 \uC785\uAD6C\uAC00 \uBC1C\uACAC\uB410\uB2E4.
+    \uADF8 \uC785\uAD6C\uB97C \uBE60\uC838\uB098\uC624\uC790\uB9C8\uC790 \uB9CC\uB098\uAC8C
+    \uB41C \uAC74 \uC9C0\uC625\uC758 \uB300\uC7A5\uC7A5\uC774\uC600\uB2E4."

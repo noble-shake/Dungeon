@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 689219b853bd0474c85ae0557e801586
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311931
+  packageName: Magical Walls VFX
+  packageVersion: 1.0
+  assetPath: Assets/Piloto Studio/Scripts/BarrierWall.cs
+  uploadId: 734937

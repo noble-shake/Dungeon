@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 125e21ede8cf31746b15797b86e6a479
+timeCreated: 1464945707
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Utilities/CLFZ2-CompressionHelper-ReadME.md
+  uploadId: 684629

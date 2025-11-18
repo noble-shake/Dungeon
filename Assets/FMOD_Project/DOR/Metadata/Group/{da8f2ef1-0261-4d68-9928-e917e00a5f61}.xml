@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{da8f2ef1-0261-4d68-9928-e917e00a5f61}">
+		<property name="name">
+			<value>Theif</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{75808bea-d27a-48ab-81eb-a5db921aef56}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{f46cdb9c-288f-4790-abcc-60a9693b0fc2}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{13790ae2-dc52-49f3-8437-cb88db5689d7}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{75808bea-d27a-48ab-81eb-a5db921aef56}">
+		<relationship name="effects">
+			<destination>{3bddcf9e-f8ec-4512-9ac3-5cb0c9fee78d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{f46cdb9c-288f-4790-abcc-60a9693b0fc2}" />
+	<object class="MixerBusFader" id="{3bddcf9e-f8ec-4512-9ac3-5cb0c9fee78d}" />
+</objects>

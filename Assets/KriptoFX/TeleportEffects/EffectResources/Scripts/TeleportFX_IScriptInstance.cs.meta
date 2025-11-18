@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee6404f30bedcd94e866230cd5bc55bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/EffectResources/Scripts/TeleportFX_IScriptInstance.cs
+  uploadId: 713990

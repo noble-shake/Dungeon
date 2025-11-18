@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb092c52435f7d47b3ecde58c422310, type: 3}
+  m_Name: Projectile 4
+  m_EditorClassIdentifier: 
+  VFXObject: {fileID: 4321102915083812353, guid: c8fe0dbe5b09bbf47b1a05b2019be409, type: 3}
+  MoveMethod: 0
+  PoolCount: 1
+  Speed: 30
+  PenetrateCounter: 1
+  characterTypes: 00000000
+  isParryable: 1
+  isReflectable: 1
+  projectileIndex: 4
+  AttackDamage: 1
+  AttackGroggyDamage: 0
+  RangedAttackType: 0
+  objectPoolType: 2
+  index: 0

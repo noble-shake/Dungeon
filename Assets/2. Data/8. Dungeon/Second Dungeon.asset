@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4491e8ff615122246bad0d6cd5528998, type: 3}
+  m_Name: Second Dungeon
+  m_EditorClassIdentifier: 
+  dungeonIndex: 1
+  dungeonSceneName: Dungeon_02
+  dungeonName: "\uAE4A\uC5B4\uC9C0\uB294 \uACE0\uBBFC"
+  bossIcon: {fileID: 21300000, guid: c0c62eb71d49af94e8148c35708d0707, type: 3}
+  bossNickname: "\uBD80\uCD94\uAE30\uACE0 \uBE44\uC6C3\uB294 \uB9C8\uB140"
+  bossName: "\uCD08\uC774 \uC2A4\uD574"
+  hpDesc: "\uBD80\uBAA8\uB2D8 \uBAA8\uC2DC\uACE0 \uC640\uB77C"
+  damageDesc: "\uB9DE\uC744\uB9CC\uD558\uB2E4\uACE0 \uC0DD\uAC01\uD558\uB2E4\uAC00
+    \uD6C5 \uAC04\uB2E4"
+  speedDesc: "\uC798 \uB6F0\uC9C4 \uBABB\uD55C\uB2E4"
+  additionalDesc: "\uC138\uC0C1\uC5D0\uC11C \uBAA8\uC2B5\uC744 \uAC10\uCD94\uAE30
+    \uC804\uC5D0 \uBD88\uD654\uB97C \uC77C\uC73C\uD0A4\uB294 \uC874\uC7AC\uB85C \uBD88\uB838\uB2E4.
+    \uC544\uAD70\uC774 \uBBF8\uC6CC\uBCF4\uC774\uB294 \uAC78 \uC870\uC2EC\uD558\uB77C."
+  dungeonDescription: "\uC54C\uD604\uC2E4 \uC55E\uC5D0\uC11C \uAE30\uB2E4\uB9AC\uACE0
+    \uC788\uB358 \uB9C8\uB140. \uC655\uC5D0\uAC8C \uC804\uD560 \uB9D0\uC740 \uC790\uAE30\uB3C4
+    \uB4E4\uC5B4\uC57C\uACA0\uB2E4\uACE0 \uD55C\uB2E4. \uBC30\uCC99 \uBC1B\uB294
+    \uB9C8\uB140\uAC00 \uC5B4\uB5BB\uAC8C \uC655\uAD81\uC5D0 \uC788\uB294 \uAC83\uC77C\uAE4C.
+    \uC0DD\uAC01\uBCF4\uB2E4 \uC77C\uC774 \uC27D\uC9C0 \uC54A\uC744 \uAC83 \uAC19\uB2E4."

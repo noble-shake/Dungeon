@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf73a0a4b5ea8994f916cd18a97c564b
+timeCreated: 1464476220
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UIParticleHidden.shader
+  uploadId: 684629

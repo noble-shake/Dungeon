@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 89b61e0416e1256469165fca78d5ed21
+timeCreated: 1463598733
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Utilities/BezierPath.cs
+  uploadId: 684629

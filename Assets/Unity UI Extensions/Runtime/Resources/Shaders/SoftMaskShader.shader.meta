@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 947afae4d36f1274ea2e4098262ceef6
+timeCreated: 1444851202
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/SoftMaskShader.shader
+  uploadId: 684629

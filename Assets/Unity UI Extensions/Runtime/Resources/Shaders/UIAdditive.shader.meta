@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20fb5fa09d4675a4e94314a228763c23
+timeCreated: 1464629199
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UIAdditive.shader
+  uploadId: 684629

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{34980751-6d55-42ad-bc4a-f7477911a210}">
+		<property name="name">
+			<value>Boss_Combo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{dafaf74d-c6dd-4e42-b163-8645d698f0eb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{dafaf74d-c6dd-4e42-b163-8645d698f0eb}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

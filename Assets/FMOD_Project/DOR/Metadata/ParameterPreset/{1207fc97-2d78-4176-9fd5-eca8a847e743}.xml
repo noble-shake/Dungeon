@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{1207fc97-2d78-4176-9fd5-eca8a847e743}">
+		<property name="name">
+			<value>Warrior_Combo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8d20bded-0eb0-4729-b8aa-4d1c19d07849}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8d20bded-0eb0-4729-b8aa-4d1c19d07849}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="initialValue">
+			<value>4</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d3cae3318559ae449731a7db00c9bdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/ColorPicker/Events/ColorChangedEvent.cs
+  uploadId: 684629

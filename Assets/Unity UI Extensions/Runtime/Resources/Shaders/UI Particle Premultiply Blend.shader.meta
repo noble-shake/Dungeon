@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0596a6838d78f624397b642817cf20bc
+timeCreated: 1502443969
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UI Particle Premultiply
+    Blend.shader
+  uploadId: 684629

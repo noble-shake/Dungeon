@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 041976c43b8439747a030b45a4712b77
+timeCreated: 1485929052
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Editor/CUITextEditor.cs
+  uploadId: 684629

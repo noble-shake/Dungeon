@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="SnapshotGroup" id="{7158e5bc-e7c2-4077-8ea7-bed802cacb02}">
+		<property name="name">
+			<value>low priority</value>
+		</property>
+	</object>
+</objects>

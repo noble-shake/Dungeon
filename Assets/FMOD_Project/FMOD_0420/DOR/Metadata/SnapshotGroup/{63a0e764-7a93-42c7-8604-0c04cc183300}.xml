@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="SnapshotGroup" id="{63a0e764-7a93-42c7-8604-0c04cc183300}">
+		<property name="name">
+			<value>high priority</value>
+		</property>
+		<relationship name="items">
+			<destination>{4d43f4b6-ddac-4f6b-af9f-eef7738748c3}</destination>
+			<destination>{8b495bd2-07d6-443e-a76d-4b0ad0978ff4}</destination>
+			<destination>{2597b265-27c7-4501-890a-66d4b2f0ed1f}</destination>
+		</relationship>
+	</object>
+</objects>

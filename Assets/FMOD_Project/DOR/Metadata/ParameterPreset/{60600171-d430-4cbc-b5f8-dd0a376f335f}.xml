@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{60600171-d430-4cbc-b5f8-dd0a376f335f}">
+		<property name="name">
+			<value>Player_Hit_Strength</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6279e51b-bf09-44d6-af72-8282dc7b8670}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6279e51b-bf09-44d6-af72-8282dc7b8670}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

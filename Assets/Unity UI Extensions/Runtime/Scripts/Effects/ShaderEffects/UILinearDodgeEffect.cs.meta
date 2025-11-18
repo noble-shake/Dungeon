@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b4fbdc2185cba1c42ad07e43eea19561
+timeCreated: 1464643896
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Effects/ShaderEffects/UILinearDodgeEffect.cs
+  uploadId: 684629

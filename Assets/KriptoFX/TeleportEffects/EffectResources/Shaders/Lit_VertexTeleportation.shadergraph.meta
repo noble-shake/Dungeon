@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 076a0e4ea57154d4291bb8c138cce20d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/EffectResources/Shaders/Lit_VertexTeleportation.shadergraph
+  uploadId: 713990

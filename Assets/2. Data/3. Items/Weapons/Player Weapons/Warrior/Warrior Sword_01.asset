@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb13a84b4eb1ca4aa985988d1acd543, type: 3}
+  m_Name: Warrior Sword_01
+  m_EditorClassIdentifier: 
+  itemName: Straight Sword
+  itemIcon: {fileID: 0}
+  itemDescription: A straight sword
+  itemID: 1
+  weaponAnimator: {fileID: 9100000, guid: 1ccbb3ca8e0b1704d9a95881c60fafd4, type: 2}
+  weaponModelType: 0
+  weaponModel: {fileID: 5473216825061927383, guid: 64e11059c7be3d741b1f29b15e046ae1, type: 3}
+  strengthREQ: 10
+  dexREQ: 10
+  intREQ: 0
+  faithREQ: 0
+  physicalDamage: 80
+  magicDamage: 0
+  fireDamage: 0
+  holyDamage: 0
+  lighteningDamage: 0
+  groggyDamage: 10
+  lightAttackAction: {fileID: 11400000, guid: 439bcc7cff4f7a440ae74782908bdb24, type: 2}
+  heavyAttackAction: {fileID: 11400000, guid: d33cb591929db954fb98b22c3d87e491, type: 2}
+  specialAttackAction_01: {fileID: 11400000, guid: 0a2493a201e3ace499061bc99e384564, type: 2}
+  specialAttackAction_02: {fileID: 11400000, guid: 7baaa3d3090c1674a859dd401e4d9432, type: 2}
+  evadeAction: {fileID: 11400000, guid: f56d165e035097c4d99ffe4d82e8546f, type: 2}
+  buffAction: {fileID: 11400000, guid: 3cec7cd894203dc45ba54cd0efcdfc18, type: 2}
+  light_whooshes: []
+  medium_whooshes: []
+  heavy_whooshes: []

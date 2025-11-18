@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 65fce2c84ce1eff4383c094d715a7e1b
+timeCreated: 1492258094
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Utilities/SelectableScaler.cs
+  uploadId: 684629

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6cd1acf32133fd747b8a615328555862
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304236
+  packageName: Teleport Effects 1
+  packageVersion: 1.0
+  assetPath: Assets/KriptoFX/TeleportEffects/DemoResources/Scene/Profiles/HDRP Post-process
+    Profile.asset
+  uploadId: 713990

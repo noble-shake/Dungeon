@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 439b3dcc2b7714c1e91776a9d161f6ee
+timeCreated: 1498517608
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/SegmentedControl.cs
+  uploadId: 684629

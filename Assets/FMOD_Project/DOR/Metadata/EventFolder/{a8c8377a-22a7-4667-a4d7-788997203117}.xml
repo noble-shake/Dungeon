@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{a8c8377a-22a7-4667-a4d7-788997203117}">
+		<property name="name">
+			<value>Theif_DIA</value>
+		</property>
+		<relationship name="folder">
+			<destination>{060398c3-ffbe-49b4-91b3-f0e64bba88b3}</destination>
+		</relationship>
+	</object>
+</objects>

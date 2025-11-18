@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0dc729b738fb01043ac4c04b78575a98
+timeCreated: 1520733906
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Editor/ColorPickerPresetsEditor.cs
+  uploadId: 684629

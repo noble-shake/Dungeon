@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abd5c6c39660e3438720c98e86c80e4, type: 3}
+  m_Name: Thief_Move
+  m_EditorClassIdentifier: 
+  eventPath:
+    Guid:
+      Data1: -2060553549
+      Data2: 1125881137
+      Data3: 1615733154
+      Data4: -936749775
+    Path: event:/Class/Theif/Player_thief_Move
+  ownerType: 0
+  TheifSFXType: 0

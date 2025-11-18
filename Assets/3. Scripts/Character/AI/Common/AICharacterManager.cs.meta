@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: b1240a9239385ff459625ae577173875
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterNetworkManager: {instanceID: 0}
+  - characterController: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - characterEffectManager: {instanceID: 0}
+  - characterAnimatorManager: {instanceID: 0}
+  - characterCombatManager: {instanceID: 0}
+  - characterSoundFXManager: {instanceID: 0}
+  - characterLocomotionManager: {instanceID: 0}
+  - characterStatsManager: {instanceID: 0}
+  - characterUIManager: {instanceID: 0}
+  - characterEquipmentManager: {instanceID: 0}
+  - aiCharacterNetworkManager: {instanceID: 0}
+  - aiCharacterLocomotionManager: {instanceID: 0}
+  - aiCharacterCombatManager: {instanceID: 0}
+  - aiCharacterAnimatorManager: {instanceID: 0}
+  - navMeshAgent: {instanceID: 0}
+  - currentState: {instanceID: 0}
+  - idleState: {instanceID: 0}
+  - pursueTargetState: {instanceID: 0}
+  - attackState: {instanceID: 0}
+  - animationPlayState: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

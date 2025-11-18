@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb13a84b4eb1ca4aa985988d1acd543, type: 3}
+  m_Name: Thief_Sword_Right_01
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemIcon: {fileID: 0}
+  itemDescription: a dual blade
+  itemID: 2
+  weaponAnimator: {fileID: 9100000, guid: 2ea23522cae92574a887557f94ea8863, type: 2}
+  weaponModelType: 0
+  weaponModel: {fileID: 2723363105514921646, guid: e7e17a2a0f6f27543ac04505b52f0cb0, type: 3}
+  strengthREQ: 1
+  dexREQ: 1
+  intREQ: 1
+  faithREQ: 1
+  physicalDamage: 30
+  magicDamage: 0
+  fireDamage: 0
+  holyDamage: 0
+  lighteningDamage: 0
+  groggyDamage: 10
+  lightAttackAction: {fileID: 11400000, guid: 439bcc7cff4f7a440ae74782908bdb24, type: 2}
+  heavyAttackAction: {fileID: 11400000, guid: ca42dadb01f035840a64abe436fbdbf0, type: 2}
+  specialAttackAction_01: {fileID: 11400000, guid: c102f3e3a7b14d84cb6688e1194ef313, type: 2}
+  specialAttackAction_02: {fileID: 11400000, guid: fe4dbb78e3685e841b521fa556bf0cff, type: 2}
+  evadeAction: {fileID: 11400000, guid: 9fa9e47ea9d26ff44b183baa4995423f, type: 2}
+  buffAction: {fileID: 11400000, guid: cecf3fd02b37a6c4a8e7e8f5a8bbb9f8, type: 2}
+  light_whooshes: []
+  medium_whooshes: []
+  heavy_whooshes: []

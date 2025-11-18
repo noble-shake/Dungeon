@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 35ff6e8800018654d9558db07c4cd080
+timeCreated: 1487335372
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Primitives/UIGridRenderer.cs
+  uploadId: 684629

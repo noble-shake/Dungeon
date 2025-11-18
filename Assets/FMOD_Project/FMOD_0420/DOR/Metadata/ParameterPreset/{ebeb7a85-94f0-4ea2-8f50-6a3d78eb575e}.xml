@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{ebeb7a85-94f0-4ea2-8f50-6a3d78eb575e}">
+		<property name="name">
+			<value>GimmickStates</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d8fd9128-e67d-4e4e-88ee-4992cdc4d7f6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{09e18a69-9b83-4347-8569-c62e12bff7da}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{09e18a69-9b83-4347-8569-c62e12bff7da}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>GM_Clearandhold</value>
+			<value>Gimmick1</value>
+			<value>Gimmick2</value>
+			<value>Gimmick3</value>
+			<value>LastGimmick</value>
+		</property>
+		<property name="initialValue">
+			<value>4</value>
+		</property>
+	</object>
+</objects>

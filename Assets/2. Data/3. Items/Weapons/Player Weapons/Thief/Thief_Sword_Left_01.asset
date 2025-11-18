@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb13a84b4eb1ca4aa985988d1acd543, type: 3}
+  m_Name: Thief_Sword_Left_01
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemIcon: {fileID: 0}
+  itemDescription: a dual blade
+  itemID: 3
+  weaponAnimator: {fileID: 9100000, guid: 2ea23522cae92574a887557f94ea8863, type: 2}
+  weaponModelType: 0
+  weaponModel: {fileID: 2723363105514921646, guid: d5d6ac70bf1006045a0000504ef472a9, type: 3}
+  strengthREQ: 1
+  dexREQ: 1
+  intREQ: 1
+  faithREQ: 1
+  physicalDamage: 30
+  magicDamage: 0
+  fireDamage: 0
+  holyDamage: 0
+  lighteningDamage: 0
+  poiseDamage: 10
+  baseStaminaCost: 20
+  lightAttackStaminaCostMultiplier: 0.9
+  heavyAttackStaminaCostMultiplier: 1.3
+  chargedAttackStaminaCostMultiplier: 1.5
+  runningAttackStaminaCostMultiplier: 1.1
+  rollingAttackStaminaCostMultiplier: 1.1
+  backstepAttackStaminaCostMultiplier: 1.1
+  physicalBaseDamageAbsorption: 50
+  magicBaseDamageAbsorption: 50
+  fireBaseDamageAbsorption: 50
+  holyBaseDamageAbsorption: 50
+  lighteningBaseDamageAbsorption: 50
+  stability: 50
+  lightAttackAction: {fileID: 11400000, guid: 439bcc7cff4f7a440ae74782908bdb24, type: 2}
+  heavyAttackAction: {fileID: 11400000, guid: ca42dadb01f035840a64abe436fbdbf0, type: 2}
+  specialAttackAction: {fileID: 11400000, guid: 0a2493a201e3ace499061bc99e384564, type: 2}
+  evadeAction: {fileID: 0}
+  light_whooshes: []
+  medium_whooshes: []
+  heavy_whooshes: []

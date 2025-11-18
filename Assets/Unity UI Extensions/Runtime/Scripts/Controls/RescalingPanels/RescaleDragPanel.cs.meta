@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c210a6e68020b4349a4020e7da57826e
+timeCreated: 1440843816
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.0.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/RescalingPanels/RescaleDragPanel.cs
+  uploadId: 684629
